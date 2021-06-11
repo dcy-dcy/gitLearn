@@ -14,6 +14,9 @@ public class gitLearnFile {
         System.out.println("hot fix 修改");
         System.out.println("hot fix 修改");
         System.out.println("hot fix 修改");
+        System.out.println("push github test");
+
+
     }
 }
 
