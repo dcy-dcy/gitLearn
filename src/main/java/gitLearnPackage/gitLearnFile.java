@@ -11,6 +11,10 @@ public class gitLearnFile {
         System.out.println("master修改");
         System.out.println("master修改");
         System.out.println("master修改");
+        System.out.println("hot fix 修改");
+        System.out.println("hot fix 修改");
+        System.out.println("hot fix 修改");
+
     }
 }
 
